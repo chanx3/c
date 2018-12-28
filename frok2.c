@@ -6,7 +6,7 @@ int main(int argc, char const *argv[]) {
   for (x=0;x<3 ;x++) {
     fork();
     printf("x\n");
-    printf("y\n");
+    
   }
 
 
